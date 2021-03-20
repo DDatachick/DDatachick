@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DDatachick
-- 👀 I’m interested in building exciting new things
+- 👀 I’m interested in building exciting new things with python and Javascript
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on building or designing products
 - 📫 How to reach me (isahjessicauwone@gmail.com)
